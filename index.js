@@ -27,7 +27,7 @@ app.use('/vendors', vendorsRoutes);
 app.use('/expenses', expenseRoutes);
 
 const CONNECTION_URL =
-  'mongodb+srv://noraiz:developer123@cluster0.kruef.mongodb.net/myFirstDatabase?retryWrites=true&w=majority';
+  'mongodb+srv://waseem:waseem123@cluster0.yf91dry.mongodb.net/alhamdStore?retryWrites=true&w=majority';
 const PORT = process.env.PORT || 8000;
 
 mongoose
